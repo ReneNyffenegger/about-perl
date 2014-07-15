@@ -15,6 +15,14 @@ sub ReadAFile { # {{{
     
     unless (open ($filehandle, "<", $filename)) {
 
+       if ($^E == 0x20) {
+
+        # http://stackoverflow.com/a/3220688/180275
+          print "Could not open $filename because it is used by another process\n";
+          return;
+
+       }
+
        print "could not open $filename ($! $^E)\n";
        return;
 
