@@ -1,3 +1,7 @@
+#
+#   TODO: Like $!, $^E is a dualvar, a scalar that contains two values. One's a string, and one's a number.
+#        (http://stackoverflow.com/a/24757708/180275)
+#
 use warnings;
 use strict;
 
