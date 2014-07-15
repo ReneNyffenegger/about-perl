@@ -1,7 +1,7 @@
 use warnings;
 use strict;
 
-use Config;
+use Config;  # https://github.com/ReneNyffenegger/PerlModules/tree/master/Config
 
 
 print "\n";
