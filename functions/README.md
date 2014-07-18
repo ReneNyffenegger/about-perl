@@ -9,6 +9,8 @@
   </tr>
   <tr>
     <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/mkdir.pl'>mkdir</a></code></td>
-    <td><code>mkdir FILENAME, MASK</code></td>
+    <td><code>mkdir FILENAME, MASK</code><br>
+        <code>mkdir FILENAME</code><br>
+        <code>mkdir</code></td>
   </tr>
 </table>
