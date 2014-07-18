@@ -8,6 +8,11 @@
     <td><code>join EXPR, LIST</code></td>
   </tr>
   <tr>
+    <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/map.pl'>map</a></code></td>
+    <td><code>map BLOCK LIST</code><br>
+        <code>map EXPR, LIST</code></td>
+  </tr>
+  <tr>
     <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/mkdir.pl'>mkdir</a></code></td>
     <td><code>mkdir FILENAME, MASK</code><br>
         <code>mkdir FILENAME</code><br>
