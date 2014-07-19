@@ -19,6 +19,11 @@
         <code>mkdir</code></td>
   </tr>
   <tr>
+    <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/rand.pl'>rand</a></code></td>
+    <td><code>rand EXPR</code><br>
+        <code>rand</code></td>
+  </tr>
+  <tr>
     <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/substr.pl'>substr</a></code></td>
     <td><code>substr EXPR, OFFSET, LENGTH, REPLACEMENT</code><br>
         <code>substr EXPR, OFFSET, LENGTH</code><br>
