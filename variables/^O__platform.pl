@@ -1,3 +1,6 @@
+#
+#   See also Sys::Info::OS 
+#
 use warnings;
 use strict;
 
