@@ -1,3 +1,8 @@
+#
+#   mkdir FILENAME, MASK
+#   mkdir FILENAME
+#   mkdir
+#
 use warnings;
 use strict;
 
