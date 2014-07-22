@@ -25,6 +25,19 @@ print join "\n", @array;
 
 print "\n-----------------------\n";
 
+#  split // 
+#    splits the string into its characters:
+
+@array = split //, "split into characters";
+
+print join " - ", @array;
+print "\n";
+
+# prints:
+#  s - p - l - i - t -   - i - n - t - o -   - c - h - a - r - a - c - t - e - r - s 
+
+print "\n-----------------------\n";
+
 @array  = split 'foo', "foobarfoobazfooonefootwo";
 print join "\n", @array;
 
