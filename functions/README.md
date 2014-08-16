@@ -29,4 +29,9 @@
         <code>substr EXPR, OFFSET, LENGTH</code><br>
         <code>substr EXPR, OFFSET</code></td>
   </tr>
+  <tr>
+    <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/unshift.pl'>unshift</a></code></td>
+    <td><code>unshift ARRAY, LIST</code><br>
+        <code>unshift EXPR, LIST</code></td>
+  </tr>
 </table>
