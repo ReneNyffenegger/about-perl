@@ -29,6 +29,13 @@
         <code>rand</code></td>
   </tr>
   <tr>
+    <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/split.pl'>split</a></code></td>
+    <td><code>split /PATTERN/, EXPR, LIMIT</code><br>
+        <code>split /PATTERN/, EXPR</code><br>
+        <code>split /PATTERN/</code></td>
+        <code>split</code></td>
+  </tr>
+  <tr>
     <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/substr.pl'>substr</a></code></td>
     <td><code>substr EXPR, OFFSET, LENGTH, REPLACEMENT</code><br>
         <code>substr EXPR, OFFSET, LENGTH</code><br>
