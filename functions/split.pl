@@ -63,3 +63,18 @@ print join "\n", @array;
 # one
 # two
 # three
+
+
+print "\n-----------------------\n";
+
+#  Split only into two parts, using 3rd parameter:
+my $text = "foo-bar-baz-qux-quux";
+
+my ($text_1, $text_2) = split '-', $text, 2;
+
+print "text_1: $text_1\ntext_2: $text_2\n";
+
+# prints
+# --
+# text_1: foo
+# text_2: bar-baz-qux-quux
