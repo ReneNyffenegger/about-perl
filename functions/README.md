@@ -1,10 +1,10 @@
 <table>
   <tr>
     <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/chdir.pl'>chdir</a></code></td>
-    <td>chdir EXPR<br>
-        chdir <br><br>
-        chdir FILEHANDLE<br>
-        chdir DIRHANDLE</td>
+    <td><code>chdir EXPR</code><br>
+        <code>chdir</code><br>
+        <code>chdir FILEHANDLE</code><br>
+        <code>chdir DIRHANDLE</code></td>
     <td>See also <a href='https://github.com/ReneNyffenegger/PerlModules/tree/master/Cwd'><code>cwd</code> in <code>CWD</code></td>
   </tr>
   <tr>
