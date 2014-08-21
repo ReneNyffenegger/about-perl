@@ -20,14 +20,13 @@
     <td><code>map BLOCK LIST</code><br>
         <code>map EXPR, LIST</code></td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/mkdir.pl'>mkdir</a></code></td>
     <td><code>mkdir FILENAME, MASK</code><br>
         <code>mkdir FILENAME</code><br>
         <code>mkdir</code></td>
-    <td>See also <a href='https://github.com/ReneNyffenegger/PerlModules/tree/master/File/Path/script.pl'><code>rmtree</code> and <code>make_path</code> in acode>File::Path</code></td>
+    <td>See also <a href='https://github.com/ReneNyffenegger/PerlModules/tree/master/File/Path/script.pl'><code>rmtree</code> and <code>make_path</code> in <code>File::Path</code></td>
   </tr>
   <tr>
     <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/rand.pl'>rand</a></code></td>
