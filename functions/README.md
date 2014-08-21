@@ -5,7 +5,7 @@
         <code>chdir</code><br>
         <code>chdir FILEHANDLE</code><br>
         <code>chdir DIRHANDLE</code></td>
-    <td>See also <a href='https://github.com/ReneNyffenegger/PerlModules/tree/master/Cwd'><code>cwd</code> in <code>CWD</code></td>
+    <td>See also <a href='https://github.com/ReneNyffenegger/PerlModules/tree/master/Cwd'><code>cwd</code> in <code>Cwd</code></td>
   </tr>
   <tr>
     <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/cmp.pl'>cmp</a></code></td>
