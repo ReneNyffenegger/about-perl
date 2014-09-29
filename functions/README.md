@@ -13,8 +13,8 @@
     <td></td>
   </tr>
   <tr>
-    <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/exists.pl'>exists</a> EXPR</code></td>
-    <td></td>
+    <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/exists.pl'>exists</a></code></td>
+    <td><code>exists EXPR</code></td>
     <td></td>
   </tr>
   <tr>
