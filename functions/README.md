@@ -13,6 +13,11 @@
     <td></td>
   </tr>
   <tr>
+    <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/exists.pl'>exists</a> EXPR</code></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/join.pl'>join</a></code></td>
     <td><code>join EXPR, LIST</code></td>
     <td></td>
