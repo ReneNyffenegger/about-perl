@@ -8,6 +8,13 @@
     <td>See also <a href='https://github.com/ReneNyffenegger/PerlModules/tree/master/Cwd'><code>cwd</code> in <code>Cwd</code></td>
   </tr>
   <tr>
+    <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/chomp.pl'>chomp</a></code></td>
+    <td><code>chomp VARIABLE</code><br>
+        <code>chomp (LIST)</code><br>
+        <code>chomp</code></td>
+    <td></td>
+  </tr>
+  <tr>
     <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/cmp.pl'>cmp</a></code></td>
     <td></td>
     <td></td>
