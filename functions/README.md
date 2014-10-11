@@ -1,5 +1,10 @@
 <table>
   <tr>
+    <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/alarm.pl'>alarm</a></code></td>
+    <td><code>alarm SECONDS</code><br>
+        <code>alarm</code>
+  </tr>
+  <tr>
     <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/chdir.pl'>chdir</a></code></td>
     <td><code>chdir EXPR</code><br>
         <code>chdir</code><br>
@@ -73,6 +78,11 @@
         <code>substr EXPR, OFFSET, LENGTH</code><br>
         <code>substr EXPR, OFFSET</code></td>
     <td></td>
+  </tr>
+  <tr>
+    <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/time.pl'>time</a></code></td>
+    <td><code>time</code>
+    <td>See also <a href='https://github.com/ReneNyffenegger/PerlModules/tree/master/Time/HiRes'><code>time</code> in <code>Time::HiRes</code></td>
   </tr>
   <tr>
     <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/unshift.pl'>unshift</a></code></td>
