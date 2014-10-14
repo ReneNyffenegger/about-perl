@@ -25,6 +25,11 @@
     <td></td>
   </tr>
   <tr>
+    <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/crypt.pl'>crypt</a></code></td>
+    <td><code>crypt PLAINTEXT, SALT</code></td>
+    <td></td>
+  </tr>
+  <tr>
     <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/exists.pl'>exists</a></code></td>
     <td><code>exists EXPR</code></td>
     <td></td>
