@@ -64,6 +64,12 @@
     <td></td>
   </tr>
   <tr>
+    <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/quotemeta.pl'>quotemeta</a></code></td>
+    <td><code>quotemeta EXPR<br>
+              quotemeta</code>
+    <td></td>
+  </tr>
+  <tr>
     <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/rand.pl'>rand</a></code></td>
     <td><code>rand EXPR</code><br>
         <code>rand</code></td>
