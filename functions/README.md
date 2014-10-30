@@ -65,8 +65,8 @@
   </tr>
   <tr>
     <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/quotemeta.pl'>quotemeta</a></code></td>
-    <td><code>quotemeta EXPR<br>
-              quotemeta</code>
+    <td><code>quotemeta EXPR</code><br>
+        <code>quotemeta</code>
     <td></td>
   </tr>
   <tr>
