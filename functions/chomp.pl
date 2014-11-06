@@ -14,3 +14,14 @@ say length($v);
 chomp $v;
 say length($v);
 # 7
+
+
+my @list = ("foo\n", "bar", "baz\n");
+print join "-", @list;
+# foo
+# -bar-baz
+
+chomp @list;
+print join "-", @list;
+# foo-bar-baz
+
