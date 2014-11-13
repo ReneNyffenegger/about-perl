@@ -59,6 +59,12 @@
     <td>See also <a href='https://github.com/ReneNyffenegger/PerlModules/tree/master/File/Path/script.pl'><code>rmtree</code> and <code>make_path</code> in <code>File::Path</code></td>
   </tr>
   <tr>
+    <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/oct.pl'>oct</a></code></td>
+    <td><code>oct EXRPR</code><br>
+        <coce>oct</code>
+    <td></td>
+  </tr>
+  <tr>
     <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/qr.pl'>qr</a></code></td>
     <td><code>qr/STRING/</code>
     <td></td>
