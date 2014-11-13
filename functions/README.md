@@ -61,7 +61,7 @@
   <tr>
     <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/oct.pl'>oct</a></code></td>
     <td><code>oct EXRPR</code><br>
-        <coce>oct</code>
+        <code>oct</code>
     <td></td>
   </tr>
   <tr>
