@@ -131,9 +131,9 @@
     <td>See also <a href='https://github.com/ReneNyffenegger/PerlModules/tree/master/Time/HiRes'><code>time</code> in <code>Time::HiRes</code></td>
   </tr>
   <tr>
-    <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/unpack.pl'>unshift</a></code></td>
+    <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/unpack.pl'>unpack</a></code></td>
     <td><code>unpack TEMPLATE, EXPR</code><br>
-        <code>unpack TEMPLATE</code></td>
+        <code>unshift EXPR, LIST</code></td>
     <td></td>
   </tr>
   <tr>
