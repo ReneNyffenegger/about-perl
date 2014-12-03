@@ -35,6 +35,12 @@
     <td></td>
   </tr>
   <tr>
+    <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/grep.pl'>grep</a></code></td>
+    <td><code>grep BLOCK LIST</code></td>
+    <td><code>grep EXPR, LIST</code></td>
+    <td></td>
+  </tr>
+  <tr>
     <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/join.pl'>join</a></code></td>
     <td><code>join EXPR, LIST</code></td>
     <td></td>
