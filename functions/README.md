@@ -106,7 +106,7 @@
   <tr>
     <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/require/require.pl'>require</a></code></td>
     <td><code>require VERSION</code><br>
-        <code>require EXPR</code></td>
+        <code>require EXPR</code></td><br>
         <code>require</code></td>
     <td></td>
   </tr>
