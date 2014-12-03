@@ -98,6 +98,13 @@
     <td></td>
   </tr>
   <tr>
+    <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/require/require.pl'>readpipe</a></code></td>
+    <td><code>require VERSION</code><br>
+        <code>require EXPR</code></td>
+        <code>require</code></td>
+    <td></td>
+  </tr>
+  <tr>
     <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/readpipe.pl'>readpipe</a></code></td>
     <td><code>readpipe EXPR</code><br>
         <code>readpipe</code></td>
