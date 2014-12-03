@@ -124,7 +124,7 @@
         <code>stat EXPR</code><br>
         <code>stat DIRHANDLE</code>
         <code>stat</code></td>
-    <td>Compare with [File::stat](https://github.com/ReneNyffenegger/PerlModules/tree/master/File/stat).</td>
+    <td>See also <a href='https://github.com/ReneNyffenegger/PerlModules/tree/master/File/stat'>File::stat</a>.</td>
   </tr>
   <tr>
     <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/substr.pl'>substr</a></code></td>
