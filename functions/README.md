@@ -70,6 +70,11 @@
     <td></td>
   </tr>
   <tr>
+    <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/qx.pl'>qx</a></code></td>
+    <td><code>qx EXPR</code>
+    <td></td>
+  </tr>
+  <tr>
     <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/quotemeta.pl'>quotemeta</a></code></td>
     <td><code>quotemeta EXPR</code><br>
         <code>quotemeta</code>
