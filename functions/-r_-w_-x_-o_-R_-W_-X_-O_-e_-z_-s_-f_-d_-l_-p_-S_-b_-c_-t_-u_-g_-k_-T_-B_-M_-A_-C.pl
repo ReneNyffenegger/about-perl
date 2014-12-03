@@ -46,7 +46,7 @@ if (-e $file_or_dir) {
     say "$file_or_dir is a diractory";
   }
   else {
-    say "Neihter a file nor a directory???";
+    say "Neither a file nor a directory???";
   }
 
 }
