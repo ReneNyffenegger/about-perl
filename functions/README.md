@@ -119,6 +119,14 @@
     <td></td>
   </tr>
   <tr>
+    <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/stat.pl'>stat</a></code></td>
+    <td><code>stat FILEHANDLE</code><br>
+        <code>stat EXPR</code><br>
+        <code>stat DIRHANDLE</code>
+        <code>stat</code></td>
+    <td>Compare with [File::stat](https://github.com/ReneNyffenegger/PerlModules/tree/master/File/stat).</td>
+  </tr>
+  <tr>
     <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/substr.pl'>substr</a></code></td>
     <td><code>substr EXPR, OFFSET, LENGTH, REPLACEMENT</code><br>
         <code>substr EXPR, OFFSET, LENGTH</code><br>
