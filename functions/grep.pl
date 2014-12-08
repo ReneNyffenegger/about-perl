@@ -9,7 +9,8 @@ my @l = (
   'twenty-two: 42'
 );
 
-
 my @grepped = grep {$_ =~ /\d/} @l;
 
 print join "\n", @grepped;
+# 123 456 789 0
+# twenty-two: 42
