@@ -71,6 +71,11 @@
     <td></td>
   </tr>
   <tr>
+    <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/opendir.pl'>opendir</a></code></td>
+    <td><code>opendir DIRHANDLE, EXPR</code><br>
+    <td></td>
+  </tr>
+  <tr>
     <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/qq.pl'>qq</a></code></td>
     <td><code>qq/STRING/</code>
     <td></td>
