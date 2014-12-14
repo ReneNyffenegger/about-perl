@@ -25,3 +25,16 @@ sub assign_if_matched_in_if_statement { # {{{
 assign_if_matched_in_if_statement('yes hello' );  #  prints «String >yes hello< matched: hello»
 assign_if_matched_in_if_statement('no bye bye');  #  prints nothing
 
+
+print "---\n";
+
+my $another_string = "foo bar";
+
+my ($matched) = $another_string =~ /baz (.*)/g;  # Returns undefined
+
+if (defined $matched) {
+  print "\$matched is defined\n";
+}
+else {
+  print "\$matched is not defined\n";
+}
