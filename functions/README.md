@@ -36,14 +36,14 @@
   </tr>
   <tr>
     <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/grep.pl'>grep</a></code></td>
-    <td><code>grep BLOCK LIST</code></td>
-    <td><code>grep EXPR, LIST</code></td>
+    <td><code>grep BLOCK LIST</code><br>
+        <code>grep EXPR, LIST</code></td>
     <td></td>
   </tr>
   <tr>
     <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/int.pl'>int</a></code></td>
-    <td><code>int EXPR</code></td>
-    <td><code>int</code></td>
+    <td><code>int EXPR</code><br>
+        <code>int</code></td>
     <td></td>
   </tr>
   <tr>
