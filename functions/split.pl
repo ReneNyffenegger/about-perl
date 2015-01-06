@@ -78,3 +78,14 @@ print "text_1: $text_1\ntext_2: $text_2\n";
 # --
 # text_1: foo
 # text_2: bar-baz-qux-quux
+
+print "\n-----------------------\n";
+
+#  capturing groups (paranthesis)
+#  http://stackoverflow.com/a/27798422/180275
+my $abc = 'aa132bc4253defg18';
+my @xyz = split /(\d+)/, $abc;
+print join ",", @xyz;
+# prints
+# --
+# aa,132,bc,4253,defg,18
