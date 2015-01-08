@@ -30,8 +30,15 @@
     <td></td>
   </tr>
   <tr>
-    <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/exists.pl'>exists</a></code></td>
-    <td><code>exists EXPR</code></td>
+    <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/each.pl'>each</a></code></td>
+    <td><code>each HASH</code><br>
+        <code>each ARRAY</code><br>
+        <code>each EXPR</code></td>
+  <td></td>
+</tr>
+<tr>
+  <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/exists.pl'>exists</a></code></td>
+  <td><code>exists EXPR</code></td>
     <td></td>
   </tr>
   <tr>
