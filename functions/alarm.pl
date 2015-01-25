@@ -1,3 +1,6 @@
+#
+#   Compare with alarm_2.pl
+#
 use warnings;
 use strict;
 
