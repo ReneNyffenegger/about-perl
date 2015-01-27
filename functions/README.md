@@ -168,4 +168,9 @@
         <code>unshift EXPR, LIST</code></td>
     <td></td>
   </tr>
+  <tr>
+    <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/y.pl'>y</a></code></td>
+    <td><code>y///</code></td>
+    <td></td>
+  </tr>
 </table>
