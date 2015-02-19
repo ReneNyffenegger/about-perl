@@ -104,14 +104,14 @@
     <td></td>
   </tr>
   <tr>
-    <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/qx.pl'>qx</a></code></td>
-    <td><code>qx EXPR</code>
-    <td></td>
-  </tr>
-  <tr>
     <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/quotemeta.pl'>quotemeta</a></code></td>
     <td><code>quotemeta EXPR</code><br>
         <code>quotemeta</code>
+    <td></td>
+  </tr>
+  <tr>
+    <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/qx.pl'>qx</a></code></td>
+    <td><code>qx EXPR</code>
     <td></td>
   </tr>
   <tr>
@@ -160,6 +160,12 @@
     <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/time.pl'>time</a></code></td>
     <td><code>time</code>
     <td>See also <a href='https://github.com/ReneNyffenegger/PerlModules/tree/master/Time/HiRes'><code>time</code> in <code>Time::HiRes</code></td>
+  </tr>
+  <tr>
+    <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/uc.pl'>uc</a></code></td>
+    <td><code>uc EXPR</code><br>
+        <code>uc</code>
+    <td></td>
   </tr>
   <tr>
     <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/unpack.pl'>unpack</a></code></td>
