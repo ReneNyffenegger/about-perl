@@ -89,6 +89,11 @@
     <td></td>
   </tr>
   <tr>
+    <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/q.pl'>q</a></code></td>
+    <td><code>q/STRING/</code>
+    <td></td>
+  </tr>
+  <tr>
     <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/qq.pl'>qq</a></code></td>
     <td><code>qq/STRING/</code>
     <td></td>
