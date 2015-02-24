@@ -157,13 +157,19 @@
     <td></td>
   </tr>
   <tr>
+    <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/system.pl'>stat</a></code></td>
+    <td><code>system LIST</code><br>
+        <code>system PROGRAM LIST</code>
+    <td></td>
+  </tr>
+  <tr>
     <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/time.pl'>time</a></code></td>
     <td><code>time</code>
     <td>See also <a href='https://github.com/ReneNyffenegger/PerlModules/tree/master/Time/HiRes'><code>time</code> in <code>Time::HiRes</code></td>
   </tr>
   <tr>
     <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/uc.pl'>uc</a></code></td>
-    <td><code>uc EXPR</code><br>
+    <td><code>uc EXPa</code><br>
         <code>uc</code>
     <td></td>
   </tr>
