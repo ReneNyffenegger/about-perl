@@ -157,7 +157,7 @@
     <td></td>
   </tr>
   <tr>
-    <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/system.pl'>stat</a></code></td>
+    <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/system.pl'>system</a></code></td>
     <td><code>system LIST</code><br>
         <code>system PROGRAM LIST</code>
     <td></td>
