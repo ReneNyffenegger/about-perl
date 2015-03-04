@@ -1,3 +1,6 @@
+#
+#   See also Inline::Files
+#
 use warnings;
 use strict;
 
