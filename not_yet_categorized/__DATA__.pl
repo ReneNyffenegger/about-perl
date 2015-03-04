@@ -1,5 +1,5 @@
 #
-#   See also Inline::Files
+#   See also Inline::Files and Data::Section
 #
 use warnings;
 use strict;
