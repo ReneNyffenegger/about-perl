@@ -4,6 +4,9 @@ use feature 'say';
 
 my $pattern_contains_a_2_digit_number = qr/\b\d{2}\b/;
 
+say $pattern_contains_a_2_digit_number; # (?^:\b\d{2}\b)
+
+say '';
 
 does_it_match("foo 4   bar"); # foo 4   bar does not match
 does_it_match("foo 42  bar"); # foo 42  bar matches
