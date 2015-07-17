@@ -127,6 +127,13 @@
     <td></td>
   </tr>
   <tr>
+    <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/redo.pl'>readpipe</a></code></td>
+    <td><code>redo LABLE</code><br>
+        <code>redo EXPR</code><br>
+        <code>redo</code></td>
+    <td></td>
+  </tr>
+  <tr>
     <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/require/require.pl'>require</a></code></td>
     <td><code>require VERSION</code><br>
         <code>require EXPR</code><br>
