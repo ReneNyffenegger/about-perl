@@ -137,7 +137,7 @@
     <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/ref.pl'>ref</a></code></td>
     <td><code>ref EXPR </code><br>
         <code>ref</code>
-    <td></td>
+    <td>Compare with <a href='https://github.com/ReneNyffenegger/PerlModules/blob/master/Scalar/Util/reftype.pl'>Scalar::Util->reftype</a></td>
   </tr>
   <tr>
     <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/require/require.pl'>require</a></code></td>

@@ -1,3 +1,6 @@
+#
+#   Compare ref with Scalar::Util->reftype ( https://github.com/ReneNyffenegger/PerlModules/blob/master/Scalar/Util/reftype.pl )
+#
 use warnings;
 use strict;
 use feature 'say';
