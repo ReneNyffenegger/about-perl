@@ -134,6 +134,12 @@
     <td></td>
   </tr>
   <tr>
+    <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/ref.pl'>ref</a></code></td>
+    <td><code>ref EXPR </code><br>
+        <code>ref</code>
+    <td></td>
+  </tr>
+  <tr>
     <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/require/require.pl'>require</a></code></td>
     <td><code>require VERSION</code><br>
         <code>require EXPR</code><br>
