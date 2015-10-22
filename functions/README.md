@@ -42,6 +42,12 @@
     <td></td>
   </tr>
   <tr>
+    <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/glob.pl'>glob</a></code></td>
+    <td><code>glob EXPR</code><br>
+        <code>glob</code></td>
+    <td></td>
+  </tr>
+  <tr>
     <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/grep.pl'>grep</a></code></td>
     <td><code>grep BLOCK LIST</code><br>
         <code>grep EXPR, LIST</code></td>
