@@ -161,6 +161,12 @@
     <td></td>
   </tr>
   <tr>
+    <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/srand.pl'>srand</a></code></td>
+    <td><code>srand EXPR</code><br>
+        <code>srand</code></td>
+    <td></td>
+  </tr>
+  <tr>
     <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/stat.pl'>stat</a></code></td>
     <td><code>stat FILEHANDLE</code><br>
         <code>stat EXPR</code><br>
