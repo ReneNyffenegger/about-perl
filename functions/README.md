@@ -153,6 +153,11 @@
     <td></td>
   </tr>
   <tr>
+    <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/seek.pl'>seek</a></code></td>
+    <td><code>seek FILEHANDLE, POSITION, WHENCE</code><br>
+    <td></td>
+  </tr>
+  <tr>
     <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/split.pl'>split</a></code></td>
     <td><code>split /PATTERN/, EXPR, LIMIT</code><br>
         <code>split /PATTERN/, EXPR</code><br>
