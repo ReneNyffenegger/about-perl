@@ -34,6 +34,10 @@ say ref(\@A);
 say ref(\$S);
 # SCALAR
 
+open (my $G, '<', $0);
+say ref($G);
+# GLOB
+
 # ----------
 
 my $CodeRef = \&F;
