@@ -1,3 +1,6 @@
+#
+#   See also Devel::Symdump
+#
 use warnings;
 use strict;
 
