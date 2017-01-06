@@ -95,6 +95,19 @@
     <td></td>
   </tr>
   <tr>
+    <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/print.pl'>print</a></code></td>
+    <td><code>print FILEHANDLE LIST</code><br>
+    <td><code>print FILEHANDLE</code><br>
+    <td><code>print LIST</code><br>
+    <td><code>print</code><br>
+    <td></td>
+  </tr>
+  <tr>
+    <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/push.pl'>push</a></code></td>
+    <td><code>my $new_count = push ARRAY, LIST</code><br>
+    <td></td>
+  </tr>
+  <tr>
     <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/q.pl'>q</a></code></td>
     <td><code>q/STRING/</code>
     <td></td>

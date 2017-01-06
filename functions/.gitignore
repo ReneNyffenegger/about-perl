@@ -1,2 +1,5 @@
 new-directory
 another-directory
+print.2.filehandle
+print.STDOUT
+print.STDERR
