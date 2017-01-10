@@ -1,10 +1,15 @@
+#!/usr/bin/perl
 use warnings;
 use strict;
 use feature 'say';
 
 my $pattern_contains_a_2_digit_number = qr/\b\d{2}\b/;
 
-say $pattern_contains_a_2_digit_number; # (?^:\b\d{2}\b)
+say $pattern_contains_a_2_digit_number;
+# (?^:\b\d{2}\b)
+
+say ref($pattern_contains_a_2_digit_number);
+# Regexp
 
 say '';
 
