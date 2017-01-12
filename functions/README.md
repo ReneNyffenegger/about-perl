@@ -171,6 +171,14 @@
     <td></td>
   </tr>
   <tr>
+    <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/splice.pl'>splice</a></code></td>
+    <td><code>splice ARRAY, OFFSET, LENGTH, LIST</code><br>
+        <code>splice ARRAY, OFFSET, LENGTH      </code><br>
+        <code>splice ARRAY, OFFSET              </code><br>
+        <code>splice ARRAY                      </code></td>
+    <td></td>
+  </tr>
+  <tr>
     <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/split.pl'>split</a></code></td>
     <td><code>split /PATTERN/, EXPR, LIMIT</code><br>
         <code>split /PATTERN/, EXPR</code><br>
