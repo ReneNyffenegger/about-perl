@@ -2,10 +2,6 @@
 use warnings;
 use strict;
 
-print "Status: 200 OK\r\n";
-print "Content-type: text/plain\r\n\r\n";
-print "\r\n";
-
 print join "\n", @INC;
 #
 # /usr/local/lib64/perl5
