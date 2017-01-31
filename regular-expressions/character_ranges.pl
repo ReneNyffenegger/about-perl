@@ -3,6 +3,6 @@ use strict;
 
 my $text = 'Foo-bar baz';
 
-# It's possible to \w in «character ranges»:
+# It's possible to use \w in «character ranges»:
 $text =~ /([\w-]+)/;
 print "$1\n";        # Foo-bar
