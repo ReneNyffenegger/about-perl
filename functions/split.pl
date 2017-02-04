@@ -1,26 +1,40 @@
 use warnings;
 use strict;
 
-
-
 print "\n-----------------------\n";
-
-
 
 # Special case; split emulates the default behavior of the command line 
 # tool awk when the PATTERN is either omitted or a literal string 
 # composed of a single space character (such as ' ' or "\x20" , 
 # but not e.g. / / 
 my @array  = split ' ', "foo    bar baz\tone  two\n\nthree";
-print join "\n", @array;
+print "' ': ";
+print join "\n' ': ", @array;
+#
+# ' ': foo
+# ' ': bar
+# ' ': baz
+# ' ': one
+# ' ': two
+# ' ': three
 
-# prints (same as above)
-# --
-# foo
-# bar
-# baz
-# one
-# two
+print "\n-----------------------\n";
+
+# In contrast, using / / splits exactly on a space (not
+# a tab, not a new line:
+@array  = split / /, "foo    bar baz\tone  two\n\nthree";
+print "/ /: ";
+print join "\n/ /: ", @array;
+# 
+# / /: foo
+# / /:
+# / /:
+# / /:
+# / /: bar
+# / /: baz        one
+# / /:
+# / /: two
+#
 # three
 
 print "\n-----------------------\n";
