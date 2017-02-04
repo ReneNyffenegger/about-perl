@@ -201,6 +201,14 @@
     <td>See also <a href='https://github.com/ReneNyffenegger/PerlModules/tree/master/File/stat'>File::stat</a>.</td>
   </tr>
   <tr>
+    <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/stat.pl'>stat</a></code></td>
+    <td><code>state VARLIST</code><br>
+        <code>state TYPE VARLIST</code><br>
+        <code>stat VARLIST: ATTRS</code>
+        <code>stat TYPE VARLIST: ATTRS</code></td>
+    <td></td>
+  </tr>
+  <tr>
     <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/substr.pl'>substr</a></code></td>
     <td><code>substr EXPR, OFFSET, LENGTH, REPLACEMENT</code><br>
         <code>substr EXPR, OFFSET, LENGTH</code><br>
