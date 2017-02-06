@@ -31,7 +31,7 @@ $file_or_dir = __FILE__ unless $file_or_dir;
 #    -k File has sticky bit set.
 #    -T File is an ASCII text file (heuristic guess).
 #    -B File is a "binary" file (opposite of -T).
-#    -M Script start time minus file modification time, in days.
+#    -M Age of file relative to script start time, in days.
 #    -A Same for access time.
 #    -C Same for inode change time (Unix, may differ for other
 #    platforms)
@@ -48,6 +48,8 @@ if (-e $file_or_dir) {
   else {
     say "Neither a file nor a directory???";
   }
+
+  printf "Last modification of $file_or_dir about %.2f days ago\n", -M $file_or_dir;
 
 }
 else {
