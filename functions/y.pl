@@ -9,3 +9,4 @@ $abc =~ y/\d/Q/   ; say $abc; # abc 123 cQe
 $abc =~ y/ab/X/   ; say $abc; # XXc 123 cQe
 $abc =~ y/ce/CE/  ; say $abc; # XXC 123 CQE
 $abc =~ y/[0-9]/#/; say $abc; # XXC ### CQE
+$abc =~ y/CE//    ; say $abc; # XXC ### CQE
