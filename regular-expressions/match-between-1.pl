@@ -7,3 +7,6 @@ my $text = 'abc <ITEMS>de fghi</ITEMS> j kl mno <ITEMS>pq r stu vw</ITEMS> xyz';
 my @items = $text =~ m,<ITEMS>((?:(?!<ITEMS>).)*?)</ITEMS>,g;
 
 print join "\n", @items;
+#
+# de fghi
+# pq r stu vw
