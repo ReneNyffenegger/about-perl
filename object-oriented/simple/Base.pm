@@ -31,4 +31,16 @@ sub overridden { #_{
 
 } #_}
 
+sub static_ { #_{
+
+#
+# No need for a $self argument in
+# static methods
+#
+
+  my $argument = shift;
+  printf "Base::static_        argument=$argument\n";
+
+} #_}
+
 1;

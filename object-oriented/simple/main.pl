@@ -23,3 +23,11 @@ $derived -> method;
 print "\n-----------------\n";
 
 $derived -> overridden('d');
+
+print "\n-----------------\n";
+
+#
+# Note: call the static method with preceding
+# double colons, not with ->
+#
+Base::static_('S');
