@@ -1,4 +1,6 @@
 package Base;
+use warnings;
+use strict;
 
 sub new { #_{
 

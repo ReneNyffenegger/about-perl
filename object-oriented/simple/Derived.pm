@@ -1,4 +1,6 @@
 package Derived;
+use warnings;
+use strict;
 
 our @ISA = qw(Base);
 
