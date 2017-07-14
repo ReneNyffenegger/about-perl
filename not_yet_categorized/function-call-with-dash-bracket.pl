@@ -14,6 +14,8 @@ my $blessed = bless {}, 'TQ84';
 print "blessed = $blessed\n";
 $blessed->Func('blessed', '...');
 
+Func TQ84('xyz', 'abc');
+
 package TQ84;
 
 sub Func {
