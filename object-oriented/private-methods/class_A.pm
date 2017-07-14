@@ -27,13 +27,7 @@ sub public_method {
   $self->echo("public_method was called, going to call private method");
 
   # Call private method.
-  &$private_method($self);
-
-  # Note: according to https://docstore.mik.ua/orelly/perl/prog3/ch12_05.htm#ch12-sect-pm
-  # it should be possible to call the private method like so
-  #    $self->private_method()
-  # However, this does not seem to be the case.
-
+  $self->$private_method();
 }
 
 sub echo { #_{
