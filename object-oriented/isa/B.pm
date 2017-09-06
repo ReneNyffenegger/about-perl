@@ -1,4 +1,4 @@
-package class_A;
+package B;
 use warnings;
 use strict;
 

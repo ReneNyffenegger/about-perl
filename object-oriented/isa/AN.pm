@@ -1,6 +1,8 @@
-package class_B;
+package AN;
 use warnings;
 use strict;
+
+our @ISA=qw(A);
 
 sub new { #_{
 

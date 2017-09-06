@@ -1,4 +1,4 @@
-package class_R;
+package R;
 use warnings;
 use strict;
 
@@ -6,7 +6,7 @@ use strict;
 #  Cannot load this class, issues error:
 #    Recursive inheritance failed in require at ...
 #
-our @ISA = qw(class_R);
+our @ISA = qw(R);
 
 sub new { #_{
 
