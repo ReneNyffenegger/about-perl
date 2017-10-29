@@ -1,3 +1,4 @@
+#!/usr/bin/perl
 use warnings;
 use strict;
 
@@ -11,6 +12,9 @@ my $changed   = $original =~ s/D/*/g;
 
 print "original: $original\n";
 print "changed:  $changed\n";
+#
+# original: A*C *E*GH I** *LMN O*
+# changed:  7
 
 print "-------------------------------\n";
 
@@ -26,3 +30,6 @@ print "-------------------------------\n";
 
 print "original_: $original_\n";
 print "changed_:  $changed_\n";
+#  
+# original_: ADC DEDGH IDD DLMN OD
+# changed_:  A*C *E*GH I** *LMN O*
