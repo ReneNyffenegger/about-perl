@@ -11,7 +11,7 @@ my $exit_value = system('system.pl exit_with_value');
 # The exit value is a 16 bit value:
 #   the low 7 bits are the signal the process died from
 #     (if any) and
-#   the high 8 bits are the acutel exit value
+#   the high 8 bits are the actuel exit value
 #
 # In order to get the output of a command, use backticks ``
 #
