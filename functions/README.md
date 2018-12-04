@@ -20,6 +20,11 @@
     <td></td>
   </tr>
   <tr>
+    <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/chr.pl'>chomp</a></code></td>
+    <td><code>chr NUMBER</code>
+    <td></td>
+  </tr>
+  <tr>
     <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/cmp.pl'>cmp</a></code></td>
     <td></td>
     <td></td>
