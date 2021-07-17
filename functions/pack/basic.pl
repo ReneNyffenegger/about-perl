@@ -1,8 +1,5 @@
-#
-#   The pack function converts values to a byte sequence containing
-#   representations according to a given specification.
-#
-use warnings; use strict;
+use warnings;
+use strict;
 
 
 my $hex    = '01' . '05' . '42' . 'f3';
@@ -19,20 +16,16 @@ $string = pack('s6', @shorts);
 dump_string($string);
 
 
-
-
 sub dump_string {
 
-  my $string = shift;
+   my $string = shift;
 
-# sort of emulate:
-# print unpack('H*', $string); print "\n";
+ # sort of emulate:
+ # print unpack('H*', $string); print "\n";
 
-  for my $byte (split //, $string) {
-    printf "%.2x ", ord($byte);
-  }
+   for my $byte (split //, $string) {
+     printf "%.2x ", ord($byte);
+   }
 
-  print "\n";
-
-
+   print "\n";
 }
