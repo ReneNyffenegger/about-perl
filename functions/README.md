@@ -59,6 +59,12 @@
     <td></td>
   </tr>
   <tr>
+    <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/hex/basic.pl'>hex</a></code></td>
+    <td><code>hex EXPR</code><br>
+        <code>hex</code></td>
+    <td></td>
+  </tr>
+  <tr>
     <td><code><a href='https://github.com/ReneNyffenegger/about-perl/blob/master/functions/int.pl'>int</a></code></td>
     <td><code>int EXPR</code><br>
         <code>int</code></td>
